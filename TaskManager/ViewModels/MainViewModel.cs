@@ -17,7 +17,7 @@ namespace TaskManager.ViewModels
         private IEnumerable<Models.Task> tasks;
         
         public string NameWindow { get; } = "Task Manager";
-        public string Autor { get; } =  " © <Kuchinik & Co.>, 2019";
+        public string Autor { get; } =  " © <Kuchinik & Co.>, 2019 ";
 
 
         public string TextDate
